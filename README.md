@@ -10,13 +10,13 @@
 </div>
 -->
 
-<a href="https://github.com/agusrnfr/AyED">
+<a href="https://github.com/Pedro0604/1ero-LS-LI-API-ATIC">
   <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro0604&repo=1ero-LS-LI-API-ATIC&theme=dark" />
 </a>
-<a href="https://github.com/agusrnfr/AyED">
+<a href="https://github.com/Pedro0604/2do-LS-LI-API-ATIC">
   <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro0604&repo=2do-LS-LI-API-ATIC&theme=dark" />
 </a>
-<a href="https://github.com/agusrnfr/AyED">
+<a href="https://github.com/Pedro0604/3ro-LS-LI-APU">
   <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro0604&repo=3ro-LS-LI-APU&theme=dark" />
 </a>
     
